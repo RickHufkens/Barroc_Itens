@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laragon\\www\\Barroc_Itens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664D01DC-120C-4F32-8BBC-97BEE734E3B9}|Barroc_Intes\\Barroc_Intes.csproj|c:\\laragon\\www\\barroc_itens\\barroc_intes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664D01DC-120C-4F32-8BBC-97BEE734E3B9}|Barroc_Intes\\Barroc_Intes.csproj|solutionrelative:barroc_intes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\Barroc_Itens\\Barroc_Intes\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Barroc_Intes\\App.xaml.cs",
+              "ToolTip": "C:\\laragon\\www\\Barroc_Itens\\Barroc_Intes\\App.xaml.cs",
+              "RelativeToolTip": "Barroc_Intes\\App.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:19:55.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
