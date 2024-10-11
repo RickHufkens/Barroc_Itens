@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\laragon\\www\\Barroc_Itens\\Barroc_intens\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CDA19CC-FE0C-46F6-B345-1CCC30162164}|Barroc_intens\\Barroc_intens.csproj|c:\\laragon\\www\\barroc_itens\\barroc_intens\\barroc_intens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA19CC-FE0C-46F6-B345-1CCC30162164}|Barroc_intens\\Barroc_intens.csproj|solutionrelative:barroc_intens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CDA19CC-FE0C-46F6-B345-1CCC30162164}|Barroc_intens\\Barroc_intens.csproj|c:\\laragon\\www\\barroc_itens\\barroc_intens\\barroc_intens\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8CDA19CC-FE0C-46F6-B345-1CCC30162164}|Barroc_intens\\Barroc_intens.csproj|solutionrelative:barroc_intens\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDA19CC-FE0C-46F6-B345-1CCC30162164}|Barroc_intens\\Barroc_intens.csproj|c:\\laragon\\www\\barroc_itens\\barroc_intens\\barroc_intens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDA19CC-FE0C-46F6-B345-1CCC30162164}|Barroc_intens\\Barroc_intens.csproj|solutionrelative:barroc_intens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.240923002\\buildTransitive\\Microsoft.WindowsAppSDK.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -21,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,25 +37,24 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\chris\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.240923002\\buildTransitive\\Microsoft.WindowsAppSDK.targets",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-10-11T07:00:23.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T07:00:23.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\laragon\\www\\Barroc_Itens\\Barroc_intens\\Barroc_intens\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Barroc_intens\\MainWindow.xaml",
               "ToolTip": "C:\\laragon\\www\\Barroc_Itens\\Barroc_intens\\Barroc_intens\\MainWindow.xaml",
               "RelativeToolTip": "Barroc_intens\\MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-11T07:00:18.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\laragon\\www\\Barroc_Itens\\Barroc_intens\\Barroc_intens\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Barroc_intens\\MainWindow.xaml.cs",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Barroc_intens\\MainWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAjwCAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:59:43.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T06:59:43.519Z"
             }
           ]
         }
