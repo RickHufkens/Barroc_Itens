@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Barroc_Intes (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Barroc_Intes (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
