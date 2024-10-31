@@ -406,3 +406,4 @@ FodyWeavers.xsd
 *.sln.iml
 Barroc_intens/.vs/Barroc_intens/v17/DocumentLayout.json
 Barroc_intens/.vs/Barroc_intens/v17/DocumentLayout.json
+/Barroc_intens/.vs
